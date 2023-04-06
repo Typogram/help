@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://typogram.github.io/help/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://typogram.co/help/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://typogram.github.io/help/</loc>
+<loc>https://typogram.co/help/</loc>
 </url>
 <url>
-<loc>https://typogram.github.io/help/ask-why-cant-i-change-my-brand-name.html</loc>
+<loc>https://typogram.co/help/ask-why-cant-i-change-my-brand-name.html</loc>
 <lastmod>2023-03-19T15:45:23-04:00</lastmod>
 <image:image>
-<image:loc>https://typogram.github.io/help/media\posts\4/cover_changeBrandName.png</image:loc>
+<image:loc>https://typogram.co/help/media\posts\4/cover_changeBrandName.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://typogram.github.io/help/media\posts\4/HelpCenter_brandnameChange.gif</image:loc>
+<image:loc>https://typogram.co/help/media\posts\4/HelpCenter_brandnameChange.gif</image:loc>
 <image:title><![CDATA[HelpCenter_brandnameChange.gif]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://typogram.github.io/help/how-to-undo-letter-icon-swap-in-typogram.html</loc>
+<loc>https://typogram.co/help/how-to-undo-letter-icon-swap-in-typogram.html</loc>
 <lastmod>2023-03-19T15:45:28-04:00</lastmod>
 <image:image>
-<image:loc>https://typogram.github.io/help/media\posts\5/Cover_LetterIconSwap.png</image:loc>
+<image:loc>https://typogram.co/help/media\posts\5/Cover_LetterIconSwap.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://typogram.github.io/help/media\posts\5/IconRevert.gif</image:loc>
+<image:loc>https://typogram.co/help/media\posts\5/IconRevert.gif</image:loc>
 <image:title><![CDATA[Letter icon swap]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://typogram.github.io/help/ideating-with-gallery-view-and-duplicated-art-boards.html</loc>
+<loc>https://typogram.co/help/ideating-with-gallery-view-and-duplicated-art-boards.html</loc>
 <lastmod>2023-03-19T15:50:42-04:00</lastmod>
 <image:image>
-<image:loc>https://typogram.github.io/help/media\posts\2/designVariation.png</image:loc>
+<image:loc>https://typogram.co/help/media\posts\2/designVariation.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://typogram.github.io/help/media\posts\2/duplicateArtBoard.gif</image:loc>
+<image:loc>https://typogram.co/help/media\posts\2/duplicateArtBoard.gif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://typogram.github.io/help/media\posts\2/galleryView.gif</image:loc>
+<image:loc>https://typogram.co/help/media\posts\2/galleryView.gif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://typogram.github.io/help/learning-branding-design-with-typogram.html</loc>
+<loc>https://typogram.co/help/learning-branding-design-with-typogram.html</loc>
 <lastmod>2023-03-19T15:45:49-04:00</lastmod>
 <image:image>
-<image:loc>https://typogram.github.io/help/media\posts\3/Cover_learningMaterial.png</image:loc>
+<image:loc>https://typogram.co/help/media\posts\3/Cover_learningMaterial.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://typogram.github.io/help/media\posts\3/HelpCenter_learningMaterial.gif</image:loc>
+<image:loc>https://typogram.co/help/media\posts\3/HelpCenter_learningMaterial.gif</image:loc>
 <image:title><![CDATA[learning material inside the app ]]></image:title>
 </image:image>
 </url>
