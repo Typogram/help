@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Typogram Help Center</title>
+    <link href="https://typogram.github.io/help/feed.xml" rel="self" />
+    <link href="https://typogram.github.io/help" />
+    <updated>2023-03-19T15:50:42-04:00</updated>
+    <author>
+        <name>Hua Shu</name>
+    </author>
+    <id>https://typogram.github.io/help</id>
+
+    <entry>
+        <title>Undo Letter Icon Swap in Logo Editor</title>
+        <author>
+            <name>Hua Shu</name>
+        </author>
+        <link href="https://typogram.github.io/help/how-to-undo-letter-icon-swap-in-typogram.html"/>
+        <id>https://typogram.github.io/help/how-to-undo-letter-icon-swap-in-typogram.html</id>
+            <category term="Questions"/>
+            <category term="Logo Editor"/>
+
+        <updated>2023-03-19T15:45:28-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.github.io/help/media/posts/5/Cover_LetterIconSwap.png" alt="" />
+                    The Letter icon swap feature allows you to easily switch a letter&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.github.io/help/media/posts/5/Cover_LetterIconSwap.png" alt="" />
+                <p><span style="font-weight: 400;">The Letter icon swap feature allows you to easily switch a letter with an icon from our icon library, editable icons, or variable icons. </span></p>
+<h2><span style="font-weight: 400;">How to Undo Letter Icon Swap in Typogram's Logo Editor</span></h2>
+<p><span style="font-weight: 400;">If you accidentally switched a letter in your logo using the Lettere Icon Swap feature, you may wonder how to undo this change. An easy solution is resetting the font style to revert the icon to its original letter. This gives you back your original logo text.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.github.io/help/media/posts/5/IconRevert.gif" alt="Letter icon swap" width="1440" height="900">
+<figcaption >Revert letter icon swap</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Why Can&#x27;t I Change My Brand Name?</title>
+        <author>
+            <name>Hua Shu</name>
+        </author>
+        <link href="https://typogram.github.io/help/ask-why-cant-i-change-my-brand-name.html"/>
+        <id>https://typogram.github.io/help/ask-why-cant-i-change-my-brand-name.html</id>
+            <category term="Questions"/>
+            <category term="General"/>
+
+        <updated>2023-03-19T15:45:23-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.github.io/help/media/posts/4/cover_changeBrandName.png" alt="" />
+                    Why can't I change my brand name? When you start a project&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.github.io/help/media/posts/4/cover_changeBrandName.png" alt="" />
+                <h2>Why can't I change my brand name?</h2>
+<p>When you start a project in Typogram, you must enter your brand name. Once you have entered your brand name, you can no longer update the name from your end. <br><br>This is because the license you purchase from Typogram is a lifetime brand license. You can edit your brand, making iterations and edits to your designs, free inside our app. We enforce the lifetime brand license by locking the brand name, so one license is truly,  for one brand.</p>
+<h3>I still want to change my brand name. What should I do?</h3>
+<p>Because we lock the brand name for the lifetime brand license, you cannot edit the brand name on your own and will have to contact us for a name change. You can email customer support directly at wendy@typogram.co, or contact us through the chat widget inside the app. We usually will respond within 24 hours.</p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.github.io/help/media/posts/4/HelpCenter_brandnameChange.gif" alt="HelpCenter_brandnameChange.gif" width="1440" height="900">
+<figcaption >Use the in-app chat widget for assistance</figcaption>
+</figure>
+<h3>I just want to add an icon next to my brand name. How can I do that?</h3>
+<p>Right now, this still needs to be done manually by contacting us, though we are working on a solution. Please email customer support directly at wendy@typogram.co or drop us a line in the chat widget.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Design Your Unique Branding With Our Curated Learning Materials </title>
+        <author>
+            <name>Hua Shu</name>
+        </author>
+        <link href="https://typogram.github.io/help/learning-branding-design-with-typogram.html"/>
+        <id>https://typogram.github.io/help/learning-branding-design-with-typogram.html</id>
+            <category term="How-to"/>
+            <category term="General"/>
+
+        <updated>2023-03-19T15:45:49-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.github.io/help/media/posts/3/Cover_learningMaterial.png" alt="" />
+                    If you are new to branding and designing, fear not. Every step&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.github.io/help/media/posts/3/Cover_learningMaterial.png" alt="" />
+                <p><span style="font-weight: 400;">If you are new to branding and designing, fear not. Every step inside the Typogram app includes learning materials to help you with design and branding. Many customers mention the learning materials inside our app are their favorite feature of the app. </span></p>
+<h2>Where to Find Typogram's Learning Materials?</h2>
+<p><span style="font-weight: 400;">The learning materials are located at the top of each section inside the app. Clicking the expand icon will take you to a new page with how-to-design learning material specific to that section. </span><span style="font-weight: 400;">Our learning materials contain design knowledge guiding you in making creative or design decisions for your brand. For example, the Brand Personality section helps you understand the concept of a brand personality and how it can help your brand stand out. The Distinctive Logo Section covers our logo design methods and suggests how-tos, design ideas, and inspirations for designing your logo in the logo editor. </span></p>
+<p><span style="font-weight: 400;">If you are ever feeling stuck, check out our in-app learning materials for design knowledge, inspiration, and ideas on designing your brand!</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.github.io/help/media/posts/3/HelpCenter_learningMaterial.gif" alt="learning material inside the app " width="600" height="375">
+<figcaption >
+<p><span style="font-weight: 400;">Learning material inside the app </span></p>
+</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ideating with Gallery View and Duplicated Art Boards</title>
+        <author>
+            <name>Hua Shu</name>
+        </author>
+        <link href="https://typogram.github.io/help/ideating-with-gallery-view-and-duplicated-art-boards.html"/>
+        <id>https://typogram.github.io/help/ideating-with-gallery-view-and-duplicated-art-boards.html</id>
+            <category term="Logo Editor"/>
+            <category term="How-to"/>
+
+        <updated>2023-03-19T15:50:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.github.io/help/media/posts/2/designVariation.png" alt="" />
+                    Duplicate Art Board The Duplicate Artboard feature allows you to create copies&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.github.io/help/media/posts/2/designVariation.png" alt="" />
+                <h2>Duplicate Art Board</h2>
+<p>The Duplicate Artboard feature allows you to create copies of artboards, making it possible to create alternate versions of your designs. Simply click on the duplicate icon to duplicate an artboard. You can do this action multiple times to create backup versions of designs or make new design iterations.</p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.github.io/help/media/posts/2/duplicateArtBoard.gif" alt="" width="1440" height="900"></figure>
+<h2>Gallery View</h2>
+<p>Gallery View can be accessible in the Distinctive Logo step via the tool panel. The Gallery View feature lets you view multiple artboards in a multi-column layout. With the Gallery View switched on, you can view all your artboards easily, compare your designs, and see your progress.</p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.github.io/help/media/posts/2/galleryView.gif" alt="" width="1440" height="900"></figure>
+<h2>Combine Duplicate Artboard &amp; Gallery View together to create design iterations</h2>
+<p>If you have a design you like but would like to build new ideas on top of that existing design, you can duplicate the artboard to create backup versions of the concept you like and build on top of the copied versions. You can also switch to Gallery View to quickly compare all your design works.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
