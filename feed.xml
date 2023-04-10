@@ -3,7 +3,7 @@
     <title>Typogram Help Center</title>
     <link href="https://typogram.co/help/feed.xml" rel="self" />
     <link href="https://typogram.co/help" />
-    <updated>2023-04-10T18:02:53-04:00</updated>
+    <updated>2023-04-10T18:18:30-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://typogram.co/help/design-letter-spacing-inside-typogram.html</id>
             <category term="How-to"/>
 
-        <updated>2023-04-10T17:50:07-04:00</updated>
+        <updated>2023-04-10T18:17:36-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/help/media/posts/7/helpCenterCover.png" alt="" />
@@ -50,6 +50,35 @@
         </content>
     </entry>
     <entry>
+        <title>Undo Letter Icon Swap in Logo Editor</title>
+        <author>
+            <name>Hua Shu</name>
+        </author>
+        <link href="https://typogram.co/help/how-to-undo-letter-icon-swap-in-typogram.html"/>
+        <id>https://typogram.co/help/how-to-undo-letter-icon-swap-in-typogram.html</id>
+            <category term="Questions"/>
+            <category term="Logo Editor"/>
+
+        <updated>2023-04-10T18:17:51-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/help/media/posts/5/Cover_LetterIconSwap-2.png" alt="" />
+                    The Letter Icon Swap feature allows you to easily switch a letter&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/help/media/posts/5/Cover_LetterIconSwap-2.png" alt="" />
+                <p><span style="font-weight: 400;">The Letter Icon Swap feature allows you to easily switch a letter with an icon from our icon library, editable icons, or variable icons. </span></p>
+<h1>How to undo Letter Icon Swap in Typogram's Logo Editor? </h1>
+<p><span style="font-weight: 400;">If you accidentally switched a letter in your logo using the Lettere Icon Swap feature, you may wonder how to undo this change. An easy solution is resetting the font style to revert the icon to its original letter. This gives you back your original logo text.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/help/media/posts/5/IconRevert.gif" alt="Letter icon swap" width="1440" height="900">
+<figcaption >Revert letter icon swap</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Choosing Brand Colors in Typogram</title>
         <author>
             <name>Hua Shu</name>
@@ -58,7 +87,7 @@
         <id>https://typogram.co/help/choosing-brand-colors-in-typogram.html</id>
             <category term="How-to"/>
 
-        <updated>2023-04-10T18:02:53-04:00</updated>
+        <updated>2023-04-10T18:18:30-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/help/media/posts/6/brandColorCover.png" alt="Choosing Brand Colors in Typogram" />
@@ -94,35 +123,6 @@
 <figcaption >Using details panel to control numbers and appearances of grayscale and accent colors</figcaption>
 </figure>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Undo Letter Icon Swap in Logo Editor</title>
-        <author>
-            <name>Hua Shu</name>
-        </author>
-        <link href="https://typogram.co/help/how-to-undo-letter-icon-swap-in-typogram.html"/>
-        <id>https://typogram.co/help/how-to-undo-letter-icon-swap-in-typogram.html</id>
-            <category term="Questions"/>
-            <category term="Logo Editor"/>
-
-        <updated>2023-04-10T14:33:32-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/help/media/posts/5/Cover_LetterIconSwap-2.png" alt="" />
-                    The Letter Icon Swap feature allows you to easily switch a letter&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/help/media/posts/5/Cover_LetterIconSwap-2.png" alt="" />
-                <p><span style="font-weight: 400;">The Letter Icon Swap feature allows you to easily switch a letter with an icon from our icon library, editable icons, or variable icons. </span></p>
-<h1>How to undo Letter Icon Swap in Typogram's Logo Editor? </h1>
-<p><span style="font-weight: 400;">If you accidentally switched a letter in your logo using the Lettere Icon Swap feature, you may wonder how to undo this change. An easy solution is resetting the font style to revert the icon to its original letter. This gives you back your original logo text.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/help/media/posts/5/IconRevert.gif" alt="Letter icon swap" width="1440" height="900">
-<figcaption >Revert letter icon swap</figcaption>
-</figure>
             ]]>
         </content>
     </entry>

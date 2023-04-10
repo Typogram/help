@@ -24,23 +24,7 @@
                    "How-to"
             ],
             "date_published": "2023-04-10T13:43:47-04:00",
-            "date_modified": "2023-04-10T17:50:07-04:00"
-        },
-        {
-            "id": "https://typogram.co/help/choosing-brand-colors-in-typogram.html",
-            "url": "https://typogram.co/help/choosing-brand-colors-in-typogram.html",
-            "title": "Choosing Brand Colors in Typogram",
-            "summary": "How to Select Brand Color in Typogram? In the brand color step,&hellip;",
-            "content_html": "<h1>How to Select Brand Color in Typogram? </h1>\n<p>In the brand color step, you learn the importance of color for branding and choosing your brand color.</p>\n<hr>\n<h2>HSL sliders &amp; Preview</h2>\n<p>Click on the slider to change brand colors. Move the thumb along the Pigment Color Slider to change the shade of color, move along Pigment Density to change how muted or saturated the color is, and finally, move along the Mixing Black or White slider to make your brand color darker or lighter.</p>\n<p>You can preview the brand color on the graphic as you select your brand color. The chosen color's hex code, useful for many design and marketing applications, is also available at the bottom.</p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/help/media/posts/6/brandColor_hslSlider_2.gif\" alt=\"Img: Change color, saturation, and lightness or darkness using our color sliders. You can also click on the edit button to change the number of colors you want to generate.\" width=\"1440\" height=\"900\">\n<figcaption >Change color, saturation, and lightness or darkness using our color sliders. You can also click on the edit button to change the number of colors you want to generate.</figcaption>\n</figure>\n<h2>View Tips</h2>\n<p>Toggle on to view tips about each color as you slide through different colors on the slider. If you wish to hide the tips, toggle on the view tips button again.</p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/help/media/posts/6/brandColor_viewTips.gif\" alt=\"Img: Toggle View Tips to see color/design tips as you move the sliders.\" width=\"1440\" height=\"900\">\n<figcaption >Toggle View Tips to see color/design tips as you move the sliders.</figcaption>\n</figure>\n<h2>Brand Color Info Panel</h2>\n<p>The Info panel has information about the selected color, hue, saturation, and lightness values in numbers. In addition, we prepared helpful descriptions for each value range to provide insights into how the branding world uses specific colors, saturation, and lightness levels.</p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/help/media/posts/6/brandColor_hslSlider_infoPanel.gif\" alt=\"Img: Info panel also has information about the selected color and their hue, saturation, lightness values\" width=\"1440\" height=\"900\">\n<figcaption >Info panel also has information about the selected color and their hue, saturation, lightness values</figcaption>\n</figure>\n<h2>Grayscale and Accent Colors</h2>\n<p>Click on the link button to open a panel to manipulate the saturation. Click on “Add Accent Colors” to add accent colors to your brand colors. Typogram’s accent colors start as complementary colors to the brand colors, and you can adjust the color by clicking on the link button.</p>\n<p>You can choose the number of colors you want to generate for both grayscale and accent colors.</p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/help/media/posts/6/brandColor_AccentColor.gif\" alt=\"Img: Using details panel to control numbers and appearances of grayscale and accent colors\" width=\"1440\" height=\"900\">\n<figcaption >Using details panel to control numbers and appearances of grayscale and accent colors</figcaption>\n</figure>\n<p> </p>",
-            "image": "https://typogram.co/help/media/posts/6/brandColorCover.png",
-            "author": {
-                "name": "Hua Shu"
-            },
-            "tags": [
-                   "How-to"
-            ],
-            "date_published": "2023-04-09T13:34:00-04:00",
-            "date_modified": "2023-04-10T18:02:53-04:00"
+            "date_modified": "2023-04-10T18:17:36-04:00"
         },
         {
             "id": "https://typogram.co/help/how-to-undo-letter-icon-swap-in-typogram.html",
@@ -56,8 +40,24 @@
                    "Questions",
                    "Logo Editor"
             ],
-            "date_published": "2023-03-17T23:09:55-04:00",
-            "date_modified": "2023-04-10T14:33:32-04:00"
+            "date_published": "2023-04-09T23:09:00-04:00",
+            "date_modified": "2023-04-10T18:17:51-04:00"
+        },
+        {
+            "id": "https://typogram.co/help/choosing-brand-colors-in-typogram.html",
+            "url": "https://typogram.co/help/choosing-brand-colors-in-typogram.html",
+            "title": "Choosing Brand Colors in Typogram",
+            "summary": "How to Select Brand Color in Typogram? In the brand color step,&hellip;",
+            "content_html": "<h1>How to Select Brand Color in Typogram? </h1>\n<p>In the brand color step, you learn the importance of color for branding and choosing your brand color.</p>\n<hr>\n<h2>HSL sliders &amp; Preview</h2>\n<p>Click on the slider to change brand colors. Move the thumb along the Pigment Color Slider to change the shade of color, move along Pigment Density to change how muted or saturated the color is, and finally, move along the Mixing Black or White slider to make your brand color darker or lighter.</p>\n<p>You can preview the brand color on the graphic as you select your brand color. The chosen color's hex code, useful for many design and marketing applications, is also available at the bottom.</p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/help/media/posts/6/brandColor_hslSlider_2.gif\" alt=\"Img: Change color, saturation, and lightness or darkness using our color sliders. You can also click on the edit button to change the number of colors you want to generate.\" width=\"1440\" height=\"900\">\n<figcaption >Change color, saturation, and lightness or darkness using our color sliders. You can also click on the edit button to change the number of colors you want to generate.</figcaption>\n</figure>\n<h2>View Tips</h2>\n<p>Toggle on to view tips about each color as you slide through different colors on the slider. If you wish to hide the tips, toggle on the view tips button again.</p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/help/media/posts/6/brandColor_viewTips.gif\" alt=\"Img: Toggle View Tips to see color/design tips as you move the sliders.\" width=\"1440\" height=\"900\">\n<figcaption >Toggle View Tips to see color/design tips as you move the sliders.</figcaption>\n</figure>\n<h2>Brand Color Info Panel</h2>\n<p>The Info panel has information about the selected color, hue, saturation, and lightness values in numbers. In addition, we prepared helpful descriptions for each value range to provide insights into how the branding world uses specific colors, saturation, and lightness levels.</p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/help/media/posts/6/brandColor_hslSlider_infoPanel.gif\" alt=\"Img: Info panel also has information about the selected color and their hue, saturation, lightness values\" width=\"1440\" height=\"900\">\n<figcaption >Info panel also has information about the selected color and their hue, saturation, lightness values</figcaption>\n</figure>\n<h2>Grayscale and Accent Colors</h2>\n<p>Click on the link button to open a panel to manipulate the saturation. Click on “Add Accent Colors” to add accent colors to your brand colors. Typogram’s accent colors start as complementary colors to the brand colors, and you can adjust the color by clicking on the link button.</p>\n<p>You can choose the number of colors you want to generate for both grayscale and accent colors.</p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/help/media/posts/6/brandColor_AccentColor.gif\" alt=\"Img: Using details panel to control numbers and appearances of grayscale and accent colors\" width=\"1440\" height=\"900\">\n<figcaption >Using details panel to control numbers and appearances of grayscale and accent colors</figcaption>\n</figure>\n<p> </p>",
+            "image": "https://typogram.co/help/media/posts/6/brandColorCover.png",
+            "author": {
+                "name": "Hua Shu"
+            },
+            "tags": [
+                   "How-to"
+            ],
+            "date_published": "2023-04-06T13:34:00-04:00",
+            "date_modified": "2023-04-10T18:18:30-04:00"
         },
         {
             "id": "https://typogram.co/help/ask-why-cant-i-change-my-brand-name.html",
