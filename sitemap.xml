@@ -6,53 +6,93 @@
 </url>
 <url>
 <loc>https://typogram.co/help/ask-why-cant-i-change-my-brand-name.html</loc>
-<lastmod>2023-03-19T15:45:23-04:00</lastmod>
+<lastmod>2023-04-10T14:29:51-04:00</lastmod>
 <image:image>
-<image:loc>https://typogram.co/help/media\posts\4/cover_changeBrandName.png</image:loc>
+<image:loc>https://typogram.co/help/media/posts/4/cover_changeBrandName-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://typogram.co/help/media\posts\4/HelpCenter_brandnameChange.gif</image:loc>
+<image:loc>https://typogram.co/help/media/posts/4/HelpCenter_brandnameChange.gif</image:loc>
 <image:title><![CDATA[HelpCenter_brandnameChange.gif]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://typogram.co/help/how-to-undo-letter-icon-swap-in-typogram.html</loc>
-<lastmod>2023-03-19T15:45:28-04:00</lastmod>
+<loc>https://typogram.co/help/choosing-brand-colors-in-typogram.html</loc>
+<lastmod>2023-04-10T18:02:53-04:00</lastmod>
 <image:image>
-<image:loc>https://typogram.co/help/media\posts\5/Cover_LetterIconSwap.png</image:loc>
+<image:loc>https://typogram.co/help/media/posts/6/brandColorCover.png</image:loc>
+<image:title><![CDATA[Choosing Brand Colors in Typogram]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://typogram.co/help/media/posts/6/brandColor_hslSlider_2.gif</image:loc>
+<image:title><![CDATA[Img: Change color, saturation, and lightness or darkness using our color sliders. You can also click on the edit button to change the number of colors you want to generate.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://typogram.co/help/media/posts/6/brandColor_viewTips.gif</image:loc>
+<image:title><![CDATA[Img: Toggle View Tips to see color/design tips as you move the sliders.]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://typogram.co/help/media/posts/6/brandColor_hslSlider_infoPanel.gif</image:loc>
+<image:title><![CDATA[Img: Info panel also has information about the selected color and their hue, saturation, lightness values]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://typogram.co/help/media/posts/6/brandColor_AccentColor.gif</image:loc>
+<image:title><![CDATA[Img: Using details panel to control numbers and appearances of grayscale and accent colors]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://typogram.co/help/design-letter-spacing-inside-typogram.html</loc>
+<lastmod>2023-04-10T17:50:07-04:00</lastmod>
+<image:image>
+<image:loc>https://typogram.co/help/media/posts/7/helpCenterCover.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://typogram.co/help/media\posts\5/IconRevert.gif</image:loc>
+<image:loc>https://typogram.co/help/media/posts/7/SelectGap.gif</image:loc>
+<image:title><![CDATA[Img: Use Select Gap to select specific gaps between letter pairs. You can select multiple gaps at once to adjust letter spacing. ]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://typogram.co/help/media/posts/7/upsideDownHighlightGap.gif</image:loc>
+<image:title><![CDATA[Flip View flips the design upside down. Highlight Gap highlights the shapes created by gaps in letter pairs. Both help you visualize the space better.]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://typogram.co/help/how-to-undo-letter-icon-swap-in-typogram.html</loc>
+<lastmod>2023-04-10T14:33:32-04:00</lastmod>
+<image:image>
+<image:loc>https://typogram.co/help/media/posts/5/Cover_LetterIconSwap-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://typogram.co/help/media/posts/5/IconRevert.gif</image:loc>
 <image:title><![CDATA[Letter icon swap]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://typogram.co/help/ideating-with-gallery-view-and-duplicated-art-boards.html</loc>
-<lastmod>2023-03-19T15:50:42-04:00</lastmod>
+<lastmod>2023-04-10T14:44:39-04:00</lastmod>
 <image:image>
-<image:loc>https://typogram.co/help/media\posts\2/designVariation.png</image:loc>
+<image:loc>https://typogram.co/help/media/posts/2/designVariation-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://typogram.co/help/media\posts\2/duplicateArtBoard.gif</image:loc>
+<image:loc>https://typogram.co/help/media/posts/2/duplicateArtBoard.gif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://typogram.co/help/media\posts\2/galleryView.gif</image:loc>
+<image:loc>https://typogram.co/help/media/posts/2/galleryView.gif</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://typogram.co/help/learning-branding-design-with-typogram.html</loc>
-<lastmod>2023-03-19T15:45:49-04:00</lastmod>
+<lastmod>2023-04-10T14:31:20-04:00</lastmod>
 <image:image>
-<image:loc>https://typogram.co/help/media\posts\3/Cover_learningMaterial.png</image:loc>
+<image:loc>https://typogram.co/help/media/posts/3/Cover_learningMaterial-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://typogram.co/help/media\posts\3/HelpCenter_learningMaterial.gif</image:loc>
+<image:loc>https://typogram.co/help/media/posts/3/HelpCenter_learningMaterial.gif</image:loc>
 <image:title><![CDATA[learning material inside the app ]]></image:title>
 </image:image>
 </url>
