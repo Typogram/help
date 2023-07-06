@@ -3,7 +3,7 @@
     <title>Typogram Help Center</title>
     <link href="https://typogram.co/help/feed.xml" rel="self" />
     <link href="https://typogram.co/help" />
-    <updated>2023-07-06T00:55:13-04:00</updated>
+    <updated>2023-07-06T01:01:07-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="How-to"/>
             <category term="General"/>
 
-        <updated>2023-07-06T00:43:49-04:00</updated>
+        <updated>2023-07-06T00:59:14-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/help/media/posts/10/LogoEditor_cover.png" alt="" />
@@ -31,7 +31,8 @@
             <![CDATA[
                     <img src="https://typogram.co/help/media/posts/10/LogoEditor_cover.png" alt="" />
                 <h1 id="h.pehwl4dimanf" class="c7"><span class="c5">Designing Your Logo in Typogram's Logo Editor</span></h1>
-<h1 id="h.aolnljd3ldcb" class="c7"><span class="c5">Tool Selection</span></h1>
+<h1> </h1>
+<h2 id="h.aolnljd3ldcb" class="c7"><span class="c5">Tool Selection</span></h2>
 <p class="c1"><span class="c3">You can use the logo design method dropdown to select your favorite logo design method and access specific editing tools and curated features. You can also choose All Tools to have all the logo design method tools available.</span></p>
 <h2 id="h.6o0aie5pxpil" class="c11"><span class="c4">Simply Type</span></h2>
 <p class="c1"><span class="c3">This method allows you to design a simple, elegant logo by manipulating letter spacing and showcasing logo typeface without any icons or additional decorative elements.</span></p>
@@ -140,17 +141,17 @@
             <category term="How-to"/>
             <category term="General"/>
 
-        <updated>2023-07-05T23:14:36-04:00</updated>
+        <updated>2023-07-06T01:00:07-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/help/media/posts/7/helpCenterCover_update.png" alt="" />
-                    How to use Kerning and Select Gap to design letter spacing inside&hellip;
+                    How to Use Kerning &amp; Select Gap to Design Letter Spacing Inside&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://typogram.co/help/media/posts/7/helpCenterCover_update.png" alt="" />
-                <h1>How to use Kerning and Select Gap to design letter spacing inside Typogram</h1>
+                <h1>How to Use Kerning &amp; Select Gap to Design Letter Spacing Inside Typogram</h1>
 <h2> </h2>
 <h2>The Kerning Step</h2>
 <p><span style="font-weight: 400;">Once you have finalized your logo in Distinctive Logo, your logo will appear on the kerning artboard, ready to be kerned. In the kerning step, you learn the importance of kerning and pay close attention to spaces between letters. </span></p>
@@ -182,7 +183,7 @@
             <category term="Questions"/>
             <category term="Logo Editor"/>
 
-        <updated>2023-04-10T18:17:51-04:00</updated>
+        <updated>2023-07-06T01:00:25-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/help/media/posts/5/Cover_LetterIconSwap-2.png" alt="" />
@@ -193,7 +194,7 @@
             <![CDATA[
                     <img src="https://typogram.co/help/media/posts/5/Cover_LetterIconSwap-2.png" alt="" />
                 <p><span style="font-weight: 400;">The Letter Icon Swap feature allows you to easily switch a letter with an icon from our icon library, editable icons, or variable icons. </span></p>
-<h1>How to undo Letter Icon Swap in Typogram's Logo Editor? </h1>
+<h1>How to Undo Letter Icon Swap in Typogram's Logo Editor? </h1>
 <p><span style="font-weight: 400;">If you accidentally switched a letter in your logo using the Lettere Icon Swap feature, you may wonder how to undo this change. An easy solution is resetting the font style to revert the icon to its original letter. This gives you back your original logo text.</span></p>
 <figure class="post__image" ><img loading="lazy" src="https://typogram.co/help/media/posts/5/IconRevert.gif" alt="Letter icon swap" width="1440" height="900">
 <figcaption >Revert letter icon swap</figcaption>
@@ -211,7 +212,7 @@
             <category term="How-to"/>
             <category term="General"/>
 
-        <updated>2023-07-05T23:14:21-04:00</updated>
+        <updated>2023-07-06T01:00:13-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/help/media/posts/6/brandColorCover.png" alt="Choosing Brand Colors in Typogram" />
@@ -260,17 +261,17 @@
             <category term="Questions"/>
             <category term="General"/>
 
-        <updated>2023-04-10T14:29:51-04:00</updated>
+        <updated>2023-07-06T01:00:43-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/help/media/posts/4/cover_changeBrandName-2.png" alt="" />
-                    Why can't I change my brand name? When you start a project&hellip;
+                    Why Can't I Change My Brand Name? When you start a project&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://typogram.co/help/media/posts/4/cover_changeBrandName-2.png" alt="" />
-                <h1>Why can't I change my brand name?</h1>
+                <h1>Why Can't I Change My Brand Name?</h1>
 <p>When you start a project in Typogram, you must enter your brand name. Once you have entered your brand name, you can no longer update the name from your end. <br><br>This is because the license you purchase from Typogram is a lifetime brand license. You can edit your brand, making iterations and edits to your designs, free inside our app. We enforce the lifetime brand license by locking the brand name, so one license is truly,  for one brand.</p>
 <h3>I still want to change my brand name. What should I do?</h3>
 <p>Because we lock the brand name for the lifetime brand license, you cannot edit the brand name on your own and will have to contact us for a name change. You can email customer support directly at wendy@typogram.co, or contact us through the chat widget inside the app. We usually will respond within 24 hours.</p>
@@ -292,7 +293,7 @@
             <category term="How-to"/>
             <category term="General"/>
 
-        <updated>2023-07-05T18:33:09-04:00</updated>
+        <updated>2023-07-06T01:00:55-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/help/media/posts/3/Cover_learningMaterial-2.png" alt="" />
@@ -304,7 +305,7 @@
                     <img src="https://typogram.co/help/media/posts/3/Cover_learningMaterial-2.png" alt="" />
                 <p><span style="font-weight: 400;">If you are new to branding and designing, fear not. Every step inside the Typogram app includes learning materials to help you with design and branding. Many customers mention the learning materials inside our app are their favorite feature of the app. </span></p>
 <h1> </h1>
-<h1>Where to find Typogram's learning materials?</h1>
+<h1>Where to Find Typogram's Learning Materials?</h1>
 <p> </p>
 <p><span style="font-weight: 400;">The learning materials are located at the top of each section inside the app. Clicking the expand icon will take you to a new page with how-to-design learning material specific to that section. </span><span style="font-weight: 400;">Our learning materials contain design knowledge guiding you in making creative or design decisions for your brand. For example, the Brand Personality section helps you understand the concept of a brand personality and how it can help your brand stand out. The Distinctive Logo Section covers our logo design methods and suggests how-tos, design ideas, and inspirations for designing your logo in the logo editor. </span></p>
 <p><span style="font-weight: 400;">If you are ever feeling stuck, check out our in-app learning materials for design knowledge, inspiration, and ideas on designing your brand!</span></p>
@@ -326,17 +327,17 @@
             <category term="Logo Editor"/>
             <category term="How-to"/>
 
-        <updated>2023-04-10T14:44:39-04:00</updated>
+        <updated>2023-07-06T01:01:07-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/help/media/posts/2/designVariation-2.png" alt="" />
-                    Creaing design iterations using Artboard &amp; Gallery View If you have a design&hellip;
+                    Creaing Design Iterations Using Artboard &amp; Gallery View If you have a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://typogram.co/help/media/posts/2/designVariation-2.png" alt="" />
-                <h1>Creaing design iterations using Artboard &amp; Gallery View </h1>
+                <h1>Creaing Design Iterations Using Artboard &amp; Gallery View </h1>
 <p>If you have a design you like but would like to build new ideas on top of that existing design, you can duplicate the artboard to create backup versions of the concept you like and build on top of the copied versions. You can also switch to Gallery View to quickly compare all your design works.</p>
 <h2>Duplicate Art Board</h2>
 <p>The Duplicate Artboard feature allows you to create copies of artboards, making it possible to create alternate versions of your designs. Simply click on the duplicate icon to duplicate an artboard. You can do this action multiple times to create backup versions of designs or make new design iterations.</p>
