@@ -3,7 +3,7 @@
     <title>Typogram Help Center</title>
     <link href="https://typogram.co/help/feed.xml" rel="self" />
     <link href="https://typogram.co/help" />
-    <updated>2023-07-06T01:01:07-04:00</updated>
+    <updated>2023-07-06T01:08:26-04:00</updated>
     <author>
         <name>Hua Shu</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="How-to"/>
             <category term="General"/>
 
-        <updated>2023-07-06T00:59:14-04:00</updated>
+        <updated>2023-07-06T01:08:26-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/help/media/posts/10/LogoEditor_cover.png" alt="" />
@@ -42,6 +42,9 @@
 <p class="c1"><span class="c3">This logo design method allows you to use an icon to replace a specific letter or part of a letter.</span></p>
 <p class="c1"><span class="c3">For example, the dating app Tinder’s logo replaced the dot of the letter “i” with a fire icon. They chose the fire icon because the meaning of the brand name “Tinder” is associated with fire.</span></p>
 <p class="c1"><span class="c3">Select the Swap with Icon option using the logo design method dropdown. This allows you to access three ways of getting icons: Editable Icons, Regular Icons, and Import your own SVG (through SVG code).</span></p>
+<figure class="post__image" ><img loading="lazy" title="" src="https://lh3.googleusercontent.com/9revXzV-9ttgmlNKbS6hZw8aHdu7kLw2O0ce4-blr3inSu2LawOGoMAqFdM7zzwMkFTYP-fSXjLpskhJ-HY9Yr9NrcZxOGDQ3oji0Y-rT7kz5ppVmI4pe2SYspKAcRUqEtbCapa_9glg7NouoAR8S1U" data-is-external-image="true"  alt="Our custom logo editor and logo methods help you design your unique logo." width="702" height="439">
+<figcaption >Use Swap With Icon to access our icon library</figcaption>
+</figure>
 <h3 id="h.ugbjeqhlg79y" class="c1"><span class="c9">Regular Icons</span></h3>
 <p class="c1"><span class="c13">Browse through our icon library and select your icon.</span></p>
 <h3 id="h.7ohjmgd4thxl" class="c1"><span class="c9">Import your own SVG using SVG Code</span></h3>
@@ -49,10 +52,6 @@
 <h3 id="h.tbnxfqpcv4pz" class="c1 c15"></h3>
 <h3 id="h.tx01x05ty3yb" class="c1"><span class="c9">Editable Icons</span></h3>
 <p class="c1"><span class="c0">Editable icons are our custom proprietary icons. Our editable icons allow you to play with the design of the icons using sliders, so you don’t have to worry about manipulating the bezier curves.</span></p>
-<figure class="post__image" ><img loading="lazy" title="" src="https://lh3.googleusercontent.com/9revXzV-9ttgmlNKbS6hZw8aHdu7kLw2O0ce4-blr3inSu2LawOGoMAqFdM7zzwMkFTYP-fSXjLpskhJ-HY9Yr9NrcZxOGDQ3oji0Y-rT7kz5ppVmI4pe2SYspKAcRUqEtbCapa_9glg7NouoAR8S1U" data-is-external-image="true"  alt="Our custom logo editor and logo methods help you design your unique logo." width="702" height="439">
-<figcaption >Use Swap With Icon to access our icon library</figcaption>
-</figure>
-<p class="c1"> </p>
 <figure class="post__image" ><img loading="lazy" title="" src="https://lh4.googleusercontent.com/LHV2jR9V48-7eSP3FZhSUy0m_3CxICi-YuAyM6Y8RilU7gzqR-ZA80EeY716kDs4ej8xRmKIvLAanmZHXm2G_10ZDT9K2A6SeVQrSsN1bChu5q7aCp7toz6SBv0zNzxgUPdEVOmHa4ZCk5abXQt8PDU" data-is-external-image="true"  alt="Our custom logo editor and logo methods help you design your unique logo." width="702" height="439">
 <figcaption >Our Editor Icon can be manipulated to your liking</figcaption>
 </figure>
